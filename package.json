@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "jest": "^29.2.2",
-    "jest-cucumber": "^3.0.1"
+    "jest-cucumber": "^4.0.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^17.2.0",
